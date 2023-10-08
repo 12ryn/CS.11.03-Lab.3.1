@@ -5,7 +5,7 @@ public class TextBasedGame {
 
     public static void main(String[] args) {
 
-        System.out.println(">>> RGL STUDIOS PRESENT: RUN OF MELSER <<<");
+        System.out.println(">>> RGL STUDIOS PRESENTS: RUN OF MELSER <<<");
         System.out.println("When prompted for a response, please either type in your word or a number corresponding to the given choices.");
 
         Scanner scanner = new Scanner(System.in);
